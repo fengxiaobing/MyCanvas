@@ -7,7 +7,7 @@
     android:layout_height="match_parent"
     tools:context="com.bing.mycanvas.MainActivity">
 
-    <com.bing.mycanvas.view.MyTextView
+    <com.bing.mycanvas.view.MyCameraView
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         app:layout_constraintBottom_toBottomOf="parent"
